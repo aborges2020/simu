@@ -1,0 +1,1872 @@
+{
+	"codes": [
+		{
+			"sujet": "IP1010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP1015",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IP2010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2011",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2012",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2015",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2020",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2022",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2025",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2030",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2032",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2035",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2040",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2042",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2045",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2052",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2055",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2061",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2062",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2065",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2070",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2072",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2075",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2080",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP2082",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2085",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2090",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2092",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP2095",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2096",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP2097",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP3010",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP3015",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP3020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3025",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP3030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3035",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP3045",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP3050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3055",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IP3060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3065",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3070",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP3075",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP3080",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP3085",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP4015",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP4020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4030",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4035",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4045",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP4050",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP5010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5015",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5020",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5025",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5035",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5040",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5045",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5050",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5055",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP5065",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5070",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP5075",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6012",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP6013",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP6015",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6020",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6025",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6035",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP6040",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6045",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6050",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6055",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6065",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6070",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP6075",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6080",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP6085",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP7010",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7015",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7020",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7025",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP7030",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7035",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP7040",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7045",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7050",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7055",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7060",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7065",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP7070",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7075",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7080",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7085",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP7085",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP8010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP8510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP8515",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IP8520",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP8525",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP8530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP8535",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP9010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP9015",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP9020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IP9510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IP9515",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC1010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC1015",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC2005",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC2010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC2012",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC2013",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2015",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2030",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2035 ",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC2040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC2045",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC2050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC2055",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC2060",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3005",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3035",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC3040",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC3045",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3055",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3060",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3065",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3070",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3075",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC3099",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3505",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3510",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3525",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC3530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3535",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC3545",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3555",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3560",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC3565",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC4012",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4025",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4030",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4032",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4035",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4042",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4052",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4055",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4060",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4510",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4515",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4520",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4525",
+			"complexite": "3"
+		},
+		{
+			"sujet": "IC4530",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4535",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4540",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4545",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4550",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4555",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC4560",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IC5015",
+			"complexite": "1"
+		},
+		{
+			"sujet": "ICP8010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC8510",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC8515",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC8520",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC8525",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IC8530",
+			"complexite": "1"
+		},
+		{
+			"sujet": "IC8535",
+			"complexite": "2"
+		},
+		{
+			"sujet": "IM2010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2015",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2025",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2035",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2045",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM2050",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM3010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM3020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM3030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM3040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM4010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "IM4020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "EF1005",
+			"complexite": "4"
+		},
+		{
+			"sujet": "FM2010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FM2020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FM3010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FM3020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FM4010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FM4020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RS1005",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1015",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RS1030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1035",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RS1045",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS1055",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS8515",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RS8517",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RS8525",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RS8530",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT1010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT1020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT1510",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT1520",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT1530",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT1540",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT1560",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT2010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT2020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3050",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT3060",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3070",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT3540",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3560",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3580",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT3599",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT4020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT4030",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT4040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT4050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4520",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4530",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT4540",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT4550",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT4560",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT4570",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT4580",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT4590",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT5010",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5020",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5030",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5040",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5050",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5070",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5080",
+			"complexite": "0"
+		},
+		{
+			"sujet": "RT5510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5520",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5523",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5526",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5529",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5530",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5533",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5536",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5539",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5543",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5546",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5549",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT5550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT5560",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5570",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5580",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT5590",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT5595",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT6010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT6020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT6030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT6040",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT6510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT7010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7505",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT7510",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7515",
+			"complexite": "4"
+		},
+		{
+			"sujet": "RT7520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7525",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT7535",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT7540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT7545",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT7550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7555",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT7560",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT7565",
+			"complexite": "3"
+		},
+		{
+			"sujet": "RT7570",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT8515",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT8525",
+			"complexite": "2"
+		},
+		{
+			"sujet": "RT8530",
+			"complexite": "1"
+		},
+		{
+			"sujet": "RT8599",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ1010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ1020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ1510",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ1520",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ1530",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ1540",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ1560",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ2010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ2020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ2510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ2520",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ2530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ2540",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ3010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ3020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ3030",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ3040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ3060",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ3070",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ3540",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ3560",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ3580",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ3599",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ4010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ4020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ4030",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ4040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ4050",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ4060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ4080",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ4099",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ5010",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ5020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ5030",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ5040",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ5050",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ5060",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ5070",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ5080",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ5090",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ5530",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ5540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ5550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ5570",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ5580",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ5595",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ5599",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ6010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ6020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ6030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ6040",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ7010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7505",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ7510",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7515",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TQ7520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7525",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ7535",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ7540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ7545",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ7550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7555",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ7560",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ7565",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ7570",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ8010",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8020",
+			"complexite": "3"
+		},
+		{
+			"sujet": "TQ8030",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8515",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8517",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8519",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8520",
+			"complexite": "1"
+		},
+		{
+			"sujet": "TQ8525",
+			"complexite": "2"
+		},
+		{
+			"sujet": "TQ8535",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ1010",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ1020",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ1040",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ1050",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ1060",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ3510",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ3520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ3530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ3540",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ3550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ3570",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ3599",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ5510",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ5515",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ5520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ5525",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ5530",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ5535",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ5540",
+			"complexite": "2"
+		},
+		{
+			"sujet": "DQ5545",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DQ5555",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DQ5560",
+			"complexite": "1"
+		},
+		{
+			"sujet": "DQ5570",
+			"complexite": "1"
+		},
+		{
+			"sujet": "BI1010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "CA1010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA1020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA1030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA1040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA1050",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA1070",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA2020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA2030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA2040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "CA2050",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DC5510",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5520",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5530",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5540",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5550",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5560",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5570",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5590",
+			"complexite": "3"
+		},
+		{
+			"sujet": "DC5599",
+			"complexite": "3"
+		},
+		{
+			"sujet": "QC6510",
+			"complexite": "4"
+		},
+		{
+			"sujet": "QC6520",
+			"complexite": "4"
+		},
+		{
+			"sujet": "QC6530",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1060",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1070",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TA1080",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DT5010",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DT5020",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DT5030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "DT8040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "QT2010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "QT2015",
+			"complexite": "2"
+		},
+		{
+			"sujet": "QT2020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "QT2025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "QT2030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "QT2040",
+			"complexite": "4"
+		},
+		{
+			"sujet": "FT2010",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FT2015",
+			"complexite": "2"
+		},
+		{
+			"sujet": "FT2020",
+			"complexite": "2"
+		},
+		{
+			"sujet": "FT2025",
+			"complexite": "3"
+		},
+		{
+			"sujet": "FT2030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "FT2035",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TT2030",
+			"complexite": "4"
+		},
+		{
+			"sujet": "TT2035",
+			"complexite": "4"
+		}
+	]
+} 

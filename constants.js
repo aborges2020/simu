@@ -1,0 +1,21 @@
+module.exports = Object.freeze({
+     IMPLICATION_PDG: "Implication du PDG",
+     DIRECTEUR_GENERAL_LEGISLATION: "DG - Directeur général législation",
+     PR_PDG_RQ: "PR – PDG Revenu Québec",
+     REGION_BP: "BP – Bureau des plaintes",
+     REGION_PC: "PC – Protecteur du citoyen",
+     TPS_TVQ: "TPS/TVQ",
+     GROUPE_TPS_TVQ: "TPS/TVQ",
+     GROUPE_PFA: "B900 – Planification fiscale abusive",
+     GRANDE_SOC_OUI: "OUI",
+     REGION_HQ_HORS_QUEBEC: "HQ-HORS-QUEBEC",
+     CODE_PROV_MI_DGP_INTERLOPE: "MI - DGP Milieu interlope - Mtl",
+     CODE_PROV_VE_DGLE_ENQUETE: "VE - DGLE. Enquetes spéciales",
+     LITIGE_5000: 5000,
+     LITIGE_100000: 100000,
+     LITIGE_300000: 300000,
+     LITIGE_1000000: 1000000,
+     MSG_SUJET_INEXISTENT: "Sujet inexistent ou indisponible",
+     MSG_COMPLEXITE: "{complexite : ",
+     MSG_SIGN: '}'
+});
