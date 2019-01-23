@@ -1,0 +1,31 @@
+{
+  "name": "simu",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "json-function": "^1.0.7",
+    "jsonfile": "^5.0.0",
+    "npm-dview": "^2.0.3",
+    "parse-int": "^1.0.3",
+    "querystring": "^0.2.0",
+    "sys": "0.0.1",
+    "url": "^0.11.0"
+  },
+  "description": "\"# simu\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aborges2020/simu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aborges2020/simu/issues"
+  },
+  "homepage": "https://github.com/aborges2020/simu#readme",
+  "keywords": []
+}
